@@ -42,7 +42,7 @@ jobs:
         run: flutter build web --release --web-renderer html --base-href /Naruto/ -t lib/main_production.dart
 
       - name: Deploy to GitHub Pages
-        uses: bluefireteam/flutter-gh-pages@v7
+        uses: bluefireteam/flutter-gh-pages@v8
         with:
           baseHref: /Naruto/
           customArgs: -t lib/main_production.dart
