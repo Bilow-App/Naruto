@@ -1,0 +1,1 @@
+xcopy web_flavors\%1  web\ /E/Y

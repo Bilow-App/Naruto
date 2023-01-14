@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="release_development_ios_apk_web" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="additionalArgs" value="-release" />
+    <option name="buildFlavor" value="development" />
+    <option name="filePath" value="$PROJECT_DIR$/lib/main_development.dart" />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="copy development flavor to web" run_configuration_type="ShConfigurationType" />
+    </method>
+  </configuration>
+</component>

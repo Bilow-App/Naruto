@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="release_production_mac_win_lin" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="additionalArgs" value="-release" />
+    <option name="buildFlavor" value="production" />
+    <option name="filePath" value="$PROJECT_DIR$/lib/main_production.dart" />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="copy production flavor to web" run_configuration_type="ShConfigurationType" />
+    </method>
+  </configuration>
+</component>
