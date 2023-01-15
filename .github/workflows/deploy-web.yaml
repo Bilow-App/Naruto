@@ -32,12 +32,6 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
-#      - name: Test code
-#        run: flutter test
-
-#      - name: Analyze code
-#        run: flutter analyze
-
       - name: Build web
         run: flutter build web --release --web-renderer html --base-href /Naruto/ -t lib/main_production.dart
 
