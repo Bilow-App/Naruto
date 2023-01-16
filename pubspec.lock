@@ -133,7 +133,7 @@ packages:
       name: cherry_toast
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.8"
+    version: "1.0.9"
   cli_util:
     dependency: transitive
     description:
